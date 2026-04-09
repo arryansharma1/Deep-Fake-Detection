@@ -28,8 +28,6 @@
 
 </div>
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📌 Table of Contents
@@ -43,8 +41,6 @@
 - [How It Works](#-how-it-works)
 - [Contributing](#-contributing)
 - [Author](#-author)
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -62,8 +58,6 @@ The model achieves up to **93.59% accuracy**, trained on a curated dataset of **
 > 📄 Detailed methodology and findings are available in the [Documentation folder](https://github.com/arryansharma1/Deep-Fake-Detection/tree/main/Documentation).
 
 <br clear="right"/>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -83,8 +77,6 @@ The model achieves up to **93.59% accuracy**, trained on a curated dataset of **
 Video Input ──► Frame Extraction ──► ResNext (Feature Vectors) ──► LSTM ──► Real / Fake
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🎬 Demo
@@ -96,8 +88,6 @@ Video Input ──► Frame Extraction ──► ResNext (Feature Vectors) ─�
 *Real-time deepfake detection using ResNext + LSTM hybrid model*
 
 </div>
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -115,8 +105,6 @@ Video Input ──► Frame Extraction ──► ResNext (Feature Vectors) ─�
 <br/>
 
 > 🏆 The **100-frame model** achieves our best accuracy of **93.59%**, leveraging richer temporal context per prediction — more frames means the LSTM sees more manipulation artifacts over time.
-
----
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -148,8 +136,6 @@ Video Input ──► Frame Extraction ──► ResNext (Feature Vectors) ─�
 | 🧪 `Model_Creation` | End-to-end pipeline: dataset prep, ResNext feature extraction, LSTM training & evaluation |
 | 📚 `Documentation` | Research reports, technical architecture notes, and academic references |
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚡ Installation & Setup
@@ -180,8 +166,6 @@ python manage.py runserver
 
 Then open your browser at `http://127.0.0.1:8000/` and upload a video to test detection.
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🔍 How It Works
@@ -206,8 +190,6 @@ Then open your browser at `http://127.0.0.1:8000/` and upload a video to test de
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🤝 Contributing
@@ -227,8 +209,6 @@ git push origin feature/YourFeature
 
 Please ensure your code follows the existing structure and includes appropriate documentation.
 
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👤 Author
@@ -240,8 +220,6 @@ Please ensure your code follows the existing structure and includes appropriate 
 [![Email](https://img.shields.io/badge/Email-aryansharma7341.as@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryansharma7341.as@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
